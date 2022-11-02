@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mettalrose
-- 👀 I’m interested in learning python for textual data analysis and app development 
-- 🌱 I’m currently learning python. Very basic stuff. 
-- 💞️ I’m looking to collaborate on beginner level natural language processing and app development. 
+- 👀 I'm a UX designer & researcher interested in the study of language, emotions, and big data. 
+- I design tools for text analysis. Check out my repository.  
 - 📫 How to reach me: you can message me right here on github :) 
 
 <!---
