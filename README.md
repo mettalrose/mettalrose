@@ -8,7 +8,7 @@
 
 ---
 
-### **Key Roles at the University of Arizona**
+### **Key Projects at the University of Arizona**
 
 #### 🎓 **UA-Office-of-General-Education**
 - **Lead Data-Driven Decision-Making:** Build pipelines to extract, clean, and analyze data, empowering strategic planning.
