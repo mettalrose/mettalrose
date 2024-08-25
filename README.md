@@ -1,38 +1,39 @@
 ## 👋 **Hi, I’m Anuj Gupta** (@mettalrose)
 
-**👀 Passionate UX Researcher & Designer**  
-🔍 *Exploring the intersection of writing technologies, data analytics, and emotions.*
+**👀 UX Researcher, Designer, & Teacher**  
+🔍 *Deeply invested in studying, designing, & teaching about Digital Writing Technologies to help create a better world, using insights from humanities and social sciences.*
 
-**🛠️ Expertise in Text Analysis Tools**  
-*Specializing in designing, testing, and teaching tools for text analysis, creating innovative solutions in educational and research environments.*
+**🛠️ Expertise in Text Analytics & Generative Tools**  
+*PhD candidate at the University of Arizona, researching human-computer interaction with ChatGPT.*
 
 ---
 
 ### **Key Roles at the University of Arizona**
 
 #### 🎓 **UA-Office-of-General-Education**
-- **Spearhead Data-Driven Initiatives:** Leading efforts to drive decision-making based on data.
-- **Build Analytical Pipelines:** Extract, clean, and analyze student enrollment & course proposal data.
-- **Provide Actionable Insights:** Empowering university leadership with strategic planning insights.
+- **Lead Data-Driven Decision-Making:** Build pipelines to extract, clean, and analyze data, empowering strategic planning.
+- **Enable Informed Leadership:** Deliver actionable insights from student enrollment and course data.
 
 #### 🏛️ **UA-Center-for-Digital-Humanities**
-- **Contribute to Data Visualization:** Key member of the data visualization team.
-- **Develop AR & 2D Visualizations:** Created visualizations inspired by W.E.B. DuBois.
-- **Inspire Future Data Scientists:** Focused on inspiring HBCU students to pursue careers in data science.
+- **Drive Data Visualization Projects:** Developed AR and 2D visualizations inspired by W.E.B. DuBois.
+- **Foster Future Data Scientists:** Aimed to inspire HBCU students to pursue careers in data science.
 
 #### 🖥️ **UA-Corpus-and-Repository-of-Writing-LAB**
-- **Ensure Data Integrity:** Maintain data usability and accuracy within the Corpus Repository.
-- **Debug & Clean Data:** Debug scripts, clean student assignments, and integrate metadata.
-- **Analyze for DEI:** Analyze data to create user personas for evaluating DEI initiative impacts.
+- **Maintain Data Integrity:** Debug and clean data for the Corpus Repository.
+- **Enhance DEI Impact:** Analyzed data to create personas for evaluating DEI initiatives.
 
 #### 🖥️ **UA-Libraries**
-- **Design Computational Notebooks:** Created notebooks to teach text mining to humanities and social scientists.
-- **Conduct Public Workshops:** Led workshops and released OER resources.
-- **Publish Research:** Currently revising content for publication in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
+- **Design & Teach Text-Mining Tools:** Created computational notebooks for text mining, used in public workshops and soon to be published in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
+
 
 ---
 
 ### 🔒 **Private Repositories:**
-While many of my projects are private, they encompass a broad range of initiatives involving Python, particularly in the humanities and social sciences.
+While many of my projects are private, they span a broad range of initiatives involving Python, particularly focused on the humanities and social sciences.
+
+---
+
+### **Recent Publications**
+For a complete list of my recent publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=SwLKUW8AAAAJ&hl=en&oi=ao).
 
 ---
