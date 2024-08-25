@@ -15,7 +15,7 @@
 - **Enable Informed Leadership:** Delivered actionable insights from student enrollment and course data.
 
 #### 🏛️ **UA-Center-for-Digital-Humanities**
-- **Drive Data Visualization Projects:** Developed AR and 2D visualizations by W.E.B. DuBois'.
+- **Drive Data Visualization Projects:** Developed AR and 2D visualizations to translate W.E.B. DuBois' research for contemporary audiences.
 - **Foster Future Data Scientists:** Curated visualizations for exhibition at Howard University to inspire HBCU students to pursue data science.
 
 #### 🖥️ **UA-Corpus-and-Repository-of-Writing-LAB**
