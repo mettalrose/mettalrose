@@ -23,7 +23,7 @@
 - **Enhance DEI Impact:** Analyzed data to create personas for evaluating DEI initiatives.
 
 #### 🖥️ **UA-Libraries**
-- **Design & Teach Text-Mining Tools:** Created computational notebooks for text mining, used in public workshops and soon to be published in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
+- **Design & Teach Text-Mining Tools:** Created computational notebooks for text mining, used in public workshops and currently under advanced review for publication in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
 
 
 ---
