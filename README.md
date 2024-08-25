@@ -11,15 +11,15 @@
 ### **Key Projects at the University of Arizona**
 
 #### 🎓 **UA-Office-of-General-Education**
-- **Lead Data-Driven Decision-Making:** Build pipelines to extract, clean, and analyze data, empowering strategic planning.
-- **Enable Informed Leadership:** Deliver actionable insights from student enrollment and course data.
+- **Lead Data-Driven Decision-Making:** Built pipelines to extract, clean, and analyze data, empowering strategic planning.
+- **Enable Informed Leadership:** Delivered actionable insights from student enrollment and course data.
 
 #### 🏛️ **UA-Center-for-Digital-Humanities**
-- **Drive Data Visualization Projects:** Developed AR and 2D visualizations inspired by W.E.B. DuBois.
-- **Foster Future Data Scientists:** Aimed to inspire HBCU students to pursue careers in data science.
+- **Drive Data Visualization Projects:** Developed AR and 2D visualizations by W.E.B. DuBois'.
+- **Foster Future Data Scientists:** Curated visualizations for exhibition at Howard University to inspire HBCU students to pursue data science.
 
 #### 🖥️ **UA-Corpus-and-Repository-of-Writing-LAB**
-- **Maintain Data Integrity:** Debug and clean data for the Corpus Repository.
+- **Maintain Data Integrity:** Debugged and cleaned data for the Corpus Repository.
 - **Enhance DEI Impact:** Analyzed data to create personas for evaluating DEI initiatives.
 
 #### 🖥️ **UA-Libraries**
