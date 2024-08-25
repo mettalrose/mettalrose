@@ -1,30 +1,38 @@
-+ 👋 Hi, I’m Anuj Gupta (@mettalrose)
-+ 👀 Passionate UX researcher and designer exploring writing technologies, data analytics, and emotions.
-+ 🛠️ I specialize in designing, testing, and teaching about tools for text analysis, creating innovative solutions in educational and research environments.
+## 👋 **Hi, I’m Anuj Gupta** (@mettalrose)
 
-+ Key Roles at the University of Arizona:
+**👀 Passionate UX Researcher & Designer**  
+🔍 *Exploring the intersection of writing technologies, data analytics, and emotions.*
 
-🏛️ UA-Center-for-Digital-Humanities:
-  + Contribute to the data visualization team at the Center for Digital Humanities.
-  + Developed AR and 2D visualizations inspired by W.E.B. DuBois.
-  + Project aimed at inspiring HBCU students to pursue data science careers.
-
-🖥️ UA-Corpus-and-Repository-of-Writing-LAB:
-  + Ensure data integrity and usability within the Corpus Repository and Writing Lab.
-  + Debug scripts, clean student assignments, and integrate metadata.
-  + Analyze data to create user personas, evaluating DEI initiative impacts.
-
-🖥️ UA-Libraries:
-  + Designed computational notebooks to teach text mining to humanities and social scientists.
-  + Used those to conduct public workshops and released them as OER resources.
-  + Currently revising them for publication at Kairos: A journal of rhetoric, technology, and pedagogy.
+**🛠️ Expertise in Text Analysis Tools**  
+*Specializing in designing, testing, and teaching tools for text analysis, creating innovative solutions in educational and research environments.*
 
 ---
-🔒 **Private Repositories:**
-  While many of my projects are private, they cover a broad range of initiatives involving Python for the humanities and social sciences. 
 
+### **Key Roles at the University of Arizona**
 
-<!---
-mettalrose/mettalrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🎓 **UA-Office-of-General-Education**
+- **Spearhead Data-Driven Initiatives:** Leading efforts to drive decision-making based on data.
+- **Build Analytical Pipelines:** Extract, clean, and analyze student enrollment & course proposal data.
+- **Provide Actionable Insights:** Empowering university leadership with strategic planning insights.
+
+#### 🏛️ **UA-Center-for-Digital-Humanities**
+- **Contribute to Data Visualization:** Key member of the data visualization team.
+- **Develop AR & 2D Visualizations:** Created visualizations inspired by W.E.B. DuBois.
+- **Inspire Future Data Scientists:** Focused on inspiring HBCU students to pursue careers in data science.
+
+#### 🖥️ **UA-Corpus-and-Repository-of-Writing-LAB**
+- **Ensure Data Integrity:** Maintain data usability and accuracy within the Corpus Repository.
+- **Debug & Clean Data:** Debug scripts, clean student assignments, and integrate metadata.
+- **Analyze for DEI:** Analyze data to create user personas for evaluating DEI initiative impacts.
+
+#### 🖥️ **UA-Libraries**
+- **Design Computational Notebooks:** Created notebooks to teach text mining to humanities and social scientists.
+- **Conduct Public Workshops:** Led workshops and released OER resources.
+- **Publish Research:** Currently revising content for publication in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
+
+---
+
+### 🔒 **Private Repositories:**
+While many of my projects are private, they encompass a broad range of initiatives involving Python, particularly in the humanities and social sciences.
+
+---
