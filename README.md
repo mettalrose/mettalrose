@@ -11,19 +11,19 @@
 ### **Key Projects at the University of Arizona**
 
 #### 🎓 **UA-Office-of-General-Education**
-- **Lead Data-Driven Decision-Making:** Built pipelines to extract, clean, and analyze data, empowering strategic planning.
-- **Enable Informed Leadership:** Delivered actionable insights from student enrollment and course data.
+- **Enabled Data-Driven Decision-Making:** Built pipelines to extract, clean, and analyze data, empowering strategic planning.
+- **Student enrollment and Course Proposal Data:** Delivered actionable insights from student enrollment and course data.
 
 #### 🏛️ **UA-Center-for-Digital-Humanities**
-- **Drive Data Visualization Projects:** Developed AR and 2D visualizations to translate W.E.B. DuBois' research for contemporary audiences.
-- **Foster Future Data Scientists:** Curated visualizations for exhibition at Howard University to inspire HBCU students to pursue data science.
+- **Designed Data Visualization Projects:** Developed AR and 2D visualizations to translate W.E.B. DuBois' research for contemporary audiences.
+- **Inspired Future Data Scientists:** Curated visualizations for exhibition at Howard University to inspire HBCU students to pursue data science.
 
 #### 🖥️ **UA-Corpus-and-Repository-of-Writing-LAB**
-- **Maintain Data Integrity:** Debugged and cleaned data for the Corpus Repository.
-- **Enhance DEI Impact:** Analyzed data to create personas for evaluating DEI initiatives.
+- **Supported Data Integrity Efforts:** Debugged and cleaned data for the Corpus Repository.
+- **Enhanced DEI Impact:** Analyzed data to create personas for evaluating DEI initiatives.
 
 #### 🖥️ **UA-Libraries**
-- **Design & Teach Text-Mining Tools:** Created computational notebooks for text mining, used in public workshops and currently under advanced review for publication in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
+- **Designed & Taught Text-Mining Tools:** Created computational notebooks for text mining, used in public workshops and currently under advanced review for publication in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
 
 
 ---
