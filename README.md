@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Gupta (@mettalrose)
-- 👀 I'm a UX designer & researcher interested in the study of language, emotions, and big data. 
-- I design tools for text analysis. Check out my repository.  
+- 👀 I'm a UX researcher and designer interested in the study of writing technologies, data analytics, and emotions.  
+- I design, test, and teach about tools for text analysis. Check out my repository.  
 - 📫 How to reach me: you can message me right here on github :) 
 
 <!---
