@@ -20,7 +20,6 @@
 
 #### 🖥️ **UA-Corpus-and-Repository-of-Writing-LAB**
 - **Supported Data Integrity Efforts:** Debugged and cleaned data for the Corpus Repository.
-- **Enhanced DEI Impact:** Analyzed data to create personas for evaluating DEI initiatives.
 
 #### 🖥️ **UA-Libraries**
 - **Designed & Taught Text-Mining Tools:** Created computational notebooks for text mining, used in public workshops and currently under advanced review for publication in *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*.
