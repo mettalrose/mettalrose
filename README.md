@@ -8,7 +8,7 @@
 *PhD from the University of Arizona
 
 ---
-### *Key Projects at the University of South Florida*
+### **Key Projects at the University of South Florida**
 
 #### 🚧 **Currently Under Construction**
 
