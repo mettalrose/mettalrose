@@ -3,12 +3,12 @@
 **👀 UX Researcher, Designer, & Teacher**  
 🔍 *Deeply invested in studying, designing, & teaching about Digital Writing Technologies to help create a better world, using insights from humanities and social sciences.*
 
-**🛠️ Expertise in Text Analytics & Generative Tools**  
+**🛠️ Expertise in Text Analytics & Generative AI Tools**  
 *Asst Prof. at the University of South Florida, researching human-computer interaction with ChatGPT.*
 *PhD from the University of Arizona
 
 ---
-### **Key Projects at the University of South Florida*
+### *Key Projects at the University of South Florida*
 
 #### 🚧 **Currently Under Construction**
 
